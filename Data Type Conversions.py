@@ -1,46 +1,5 @@
-Python 3.13.0 (v3.13.0:60403a5409f, Oct  7 2024, 00:37:40) [Clang 15.0.0 (clang-1500.3.9.4)] on darwin
-Type "help", "copyright", "credits" or "license()" for more information.
-#integer --> 1,12,123
-#float --> 1.0,12.3
-#boolean -->True , False
-#string --> "Hello"
-#complex --> 1+2j
 
-
-
-a=100
-type(a)
-<class 'int'>
-c=8.9
-type(c)
-<class 'float'>
-b='Hi'
-type(b)
-<class 'str'>
-d="Python"
-type(d)
-<class 'str'>
-g="True"
-type(g)
-<class 'str'>
-g=True
-type(g)
-<class 'bool'>
-e=2i+3
-SyntaxError: invalid decimal literal
-e=2+3i
-SyntaxError: invalid decimal literal
-e=2j+3
-type(e)
-<class 'complex'>
-
-
-
-#DataType Conversions
-
-
-================================ RESTART: Shell ================================
-#DataType Conversions
+Data Type Conversions
 
 
 int(7)
