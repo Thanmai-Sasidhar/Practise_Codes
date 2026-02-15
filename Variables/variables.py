@@ -47,4 +47,3 @@ Thanmai Avanigadda
 Thanmai Avanigadda
 >>> print(fname+lname)
 ThanmaiAvanigadda
->>> #We can delete the varibales using "del" keyword
