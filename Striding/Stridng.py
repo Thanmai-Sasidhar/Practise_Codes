@@ -88,3 +88,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 'naLeic'
 >>> a[-2:-16:-5]
 'nei'
+  
