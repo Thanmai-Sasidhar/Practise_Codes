@@ -227,4 +227,4 @@ NameError: name 'B' is not defined. Did you mean: 'b'?
 >>> len(a)
 3
 >>> 
->>> #Tuple is immutable data type as we cannot chnage anything in it after assigning values
+>>> #Tuple is immutable data type as we cannot chnage anything in it after assigning values 
