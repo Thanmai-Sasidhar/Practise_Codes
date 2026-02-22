@@ -1,9 +1,9 @@
 Python 3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)] on win32
 Enter "help" below or click "Help" above for more information.
 #sets{}
-a={3,5.5,"simhadr",5+6j,True,False}
+a={3,5.5,"Sasidhar",5+6j,True,False}
 print(a)
-{False, True, 3, 5.5, (5+6j), 'simhadr'}
+{False, True, 3, 5.5, (5+6j), 'Sasidhar'}
 type(a)
 <class 'set'>
 b={7,5,6,7,8,6,5}
