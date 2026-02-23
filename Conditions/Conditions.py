@@ -25,7 +25,7 @@ a,b=2,4
 if a!=b:
     print("True")
 
-name=input()
+name=input() 
 if name =="sasi":
     print("Valid")
 
