@@ -9,7 +9,7 @@ if a<b:
     print("B is Greater")
 else:
     print()
-
+ 
 a,b=3,9
 if a>b:
     print("A is Greater")
