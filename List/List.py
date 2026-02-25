@@ -8,7 +8,7 @@ type(a)
 <class 'list'>
 a.append("hi")
 a
-[1, 2.3, '4', True, False, (6+2j), 'hi']
+[1, 2.3, '4', True, False, (6+2j), 'hi'] 
 a.append([1,2,3,4])
 print(a)
 [1, 2.3, '4', True, False, (6+2j), 'hi', [1, 2, 3, 4]]
