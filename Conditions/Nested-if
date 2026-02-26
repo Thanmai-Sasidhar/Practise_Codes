@@ -1,0 +1,67 @@
+a=10
+b=20
+
+if a<b:
+    print("less")
+    if b>a:
+        print("greater")
+
+a=10
+b=20
+if a==b:
+    print("less")
+    if b>a:
+        print("Gretaer")
+
+a=10
+b=20
+if a==b:
+    print("Less")
+if b>a:
+    print("Greater")
+
+a=10
+b=20
+if a<=b:
+    print("Less")
+    if b==a:
+        print("Greater")
+    else:
+        print("True")
+
+a=10
+b=20
+
+if a==b:
+    print("Less")
+    if b!=a:
+        print("greater")
+else:
+    print("True")
+
+
+a=10
+b=20
+if a<=b:
+    print("less")
+    if b==a:
+        print("greater")
+    else:
+        print("True")
+else:
+    print("False")
+        
+
+
+a=10
+b=20
+if a<=b:
+    print("less")
+    if b==a:
+        print("Greater")
+    elif a==b:
+        print("Not Equal")
+    else:
+        print("True")
+        
+'''
