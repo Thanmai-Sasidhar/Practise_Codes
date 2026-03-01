@@ -105,6 +105,6 @@ cake=input()
 if cakes.get(cake):
     print(cakes[cake])
 else:
-    print("Invalid Key")
+    print("Invalid Key") 
 '''    
  
