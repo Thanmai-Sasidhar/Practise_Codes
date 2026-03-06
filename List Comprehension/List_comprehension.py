@@ -77,7 +77,7 @@ b=[5,4,3,2,1]
 c=[i+j for i in a for j in b if i+j==6 ]   
 print(c)
 '''
-
+ 
 '''
 a=[1,2,3,4,5]
 b=[5,4,3,2,1]
