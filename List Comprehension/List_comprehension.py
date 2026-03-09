@@ -1,6 +1,6 @@
  #List Comprehension
 
-#Every List Comprehension can be rewritten as a for loop but every for loop cannot be rewritten in List Comprehension
+#Every List Comprehension can be rewritten as a for loop but every for loop cannot be rewritten in List Comprehension 
 '''
 a=["codegnan","python","course"]
 for i in a:
