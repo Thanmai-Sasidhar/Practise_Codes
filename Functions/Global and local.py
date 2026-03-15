@@ -1,5 +1,5 @@
 # GLOBAL AND LOCAL VARIABLES
-
+ 
 ## A Variable insode and outsid the function is called global and local variables
 
 ## A varible define above the function and is accessible to the entire global space is called GLOBAL VARIABLE
