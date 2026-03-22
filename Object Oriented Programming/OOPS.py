@@ -11,7 +11,7 @@
 
 '''
 
-#Syntax of OOPS
+#Syntax of OOPS 
 '''
 class classname():
     name="CG"
