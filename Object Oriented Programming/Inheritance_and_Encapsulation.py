@@ -1,6 +1,6 @@
 #Multi-level inheritance
 '''
-class Dog_breed1(): 
+class Dog_breed1():  
     def f1(self):
         print("Breed 1 eats f1")
 class Dog_breed2(Dog_breed1):
