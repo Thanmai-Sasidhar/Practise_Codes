@@ -76,7 +76,7 @@ obj.method_2()
 3.List of contacts
 4.Delete
 5.Exit
-
+ 
 
 Name,mobile,mail id
 
