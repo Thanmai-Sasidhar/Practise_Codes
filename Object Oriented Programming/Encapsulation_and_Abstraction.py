@@ -3,7 +3,7 @@
 #Encapsulation :-
 '''
 Combine multiple units into single unit is called encapsulation
-1.Public data
+1.Public data 
 2.Protected data  _ (single underscore)
 3.Private data  __ (Double underscore)
 '''
