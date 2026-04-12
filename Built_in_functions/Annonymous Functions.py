@@ -11,7 +11,7 @@ for i in range(97,123):
 print()
 
 name="SASIDHAR"
-for i in name:
+for i in name: 
     print(ord(i),end=" ")
 '''
 
