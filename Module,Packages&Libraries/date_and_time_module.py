@@ -2,7 +2,7 @@
 #date and time module
 '''
 from datetime import date
-
+ 
 a=date.today()
 print(a)
 
