@@ -3,7 +3,7 @@
 ## A Variable insode and outsid the function is called global and local variables
 
 ## A varible define above the function and is accessible to the entire global space is called GLOBAL VARIABLE
-
+ 
 ## A varibale inside the function is called LOCAL VARIABLE
 
 #First Case of Global Variable
